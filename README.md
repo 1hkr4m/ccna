@@ -1,5 +1,8 @@
 # CCNA 2022
 
+### Status: preparation
+-  Date: 05.2022
+
 ### Preparation for CCNA exam 
 
 -  kmb - Курс молодого бойца
