@@ -1,30 +1,18 @@
 # 101 labs Cisco CCNA
 
--  Lab 1. Configure, Verify, and Troubleshoot IPv4 Addresses
--  Lab 1. Configuration and Verification
--  Lab 2. Configure, Verify, and Troubleshoot IPv6 Addresses
--  Lab 2. Configuration and Verification
--  Lab 3. IPv6 Address Autoconfiguration
--  Lab 3. Configuration and Verification
--  Lab 4. ARP and Proxy ARP
--  Lab 4 Configuration and Verification
--  Lab 5. Configuring Back-to-Back Serial Connections
--  Lab 5. Configuration and Verification
--  Lab 6. Verifying Cisco HDLC Encapsulation
--  Lab 6. Configuration and Verification
--  Lab 7. Configuring PPP Encapsulation
--  Lab 7. Configuration and Verification
--  Lab 8. PPP Authentication Using PAP
--  Lab 8. Configuration and Verification
--  Lab 9. PPP Authentication Using CHAP (Method #1)
--  Lab 9. Configuration and Verification
--  Lab 10. PPP Authentication Using CHAP (Method #2)
--  Lab 10. Configuration and Verification
--  Lab 11. Configuring eBGP Advanced
--  Lab 11. Configuration and Verification
--  Lab 12. Configuring GRE Point-To-Point Tunnels
--  Lab 12. Configuration and Verification
--  Lab 13. Power over Ethernet (PoE) Basics
+- [x] Lab 1. Configure, Verify, and Troubleshoot IPv4 Addresses
+- [ ] Lab 2. Configure, Verify, and Troubleshoot IPv6 Addresses
+- [ ] Lab 3. IPv6 Address Autoconfiguration
+- [ ] Lab 4. ARP and Proxy ARP
+- [ ] Lab 5. Configuring Back-to-Back Serial Connections
+- [ ] Lab 6. Verifying Cisco HDLC Encapsulation
+- [ ] Lab 7. Configuring PPP Encapsulation
+- [ ] Lab 8. PPP Authentication Using PAP
+- [ ] Lab 9. PPP Authentication Using CHAP (Method #1)
+- [ ] Lab 10. PPP Authentication Using CHAP (Method #2)
+- [ ] Lab 11. Configuring eBGP Advanced
+- [ ] Lab 12. Configuring GRE Point-To-Point Tunnels
+- [ ] Lab 13. Power over Ethernet (PoE) Basics
  Lab 13. Configuration and Verification
  Lab 14. Verify IP Parameters for Windows OS (GUI and CLI)
  Lab 14. Configuration and Verification
