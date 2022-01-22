@@ -1,9 +1,7 @@
 # 101 labs Cisco CCNA
 
--  Lab 1. Configure, Verify, and Troubleshoot IPv4 Addresses
--  Lab 1. Configuration and Verification
--  Lab 2. Configure, Verify, and Troubleshoot IPv6 Addresses
--  Lab 2. Configuration and Verification
+- [x] Lab 1. Configure, Verify, and Troubleshoot IPv4 Addresses
+- [ ] Lab 2. Configure, Verify, and Troubleshoot IPv6 Addresses
 -  Lab 3. IPv6 Address Autoconfiguration
 -  Lab 3. Configuration and Verification
 -  Lab 4. ARP and Proxy ARP
