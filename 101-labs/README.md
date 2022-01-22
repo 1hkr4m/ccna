@@ -1,5 +1,6 @@
 # 101 labs Cisco CCNA
 
+## 1.0
 - [x] Lab 1. Configure, Verify, and Troubleshoot IPv4 Addresses
 - [ ] Lab 2. Configure, Verify, and Troubleshoot IPv6 Addresses
 - [ ] Lab 3. IPv6 Address Autoconfiguration
@@ -20,7 +21,7 @@
  Lab 15. Configuration and Verification
  Lab 16. Verify IP Parameters for Mac OS (GUI)
  Lab 16. Configuration and Verification
-2.0 Network Access
+## 2.0 Network Access
  Lab 17. Configuring Standard VLANs on Catalyst Switches
  Lab 17. Configuration and Verification
  Lab 18. Configuring VTP Clients and Servers on Catalyst Switches
@@ -70,7 +71,7 @@ the IOS Macro
  Lab 37. Configuration and Verification
  Lab 38. Installing a Wireless LAN Controller
  Lab 38. Configuration and Verification
-3.0 IP Connectivity
+## 3.0 IP Connectivity
  Lab 39. Configuring Static Routing via Interfaces
  Lab 39. Configuration and Verification
  Lab 40. Configuring Static Routing via IP addresses
@@ -119,7 +120,7 @@ the IOS Macro
  Lab 61. Configuration and Verification
  Lab 62. Configure VRRP Redundancy
  Lab 62. Configuration and Verification
-4.0 IP Services
+## 4.0 IP Services
  Lab 63. Configuring Static Network Address Translation
  Lab 63. Configuration and Verification
  Lab 64. Configuring Dynamic Network Address Translation
@@ -155,7 +156,7 @@ Router-Based)
  Lab 78. Configuration and Verification
  Lab 79. Enabling HTTP Access to Cisco IOS Devices
  Lab 79. Configuration and Verification
-5.0 Security Fundamentals
+## 5.0 Security Fundamentals
  Lab 80. Configuring Passwords on Catalyst Switches
  Lab 80. Configuration and Verification
  Lab 81. Permitting Telnet Access to Catalyst IOS Switches
