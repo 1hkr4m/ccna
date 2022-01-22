@@ -1,6 +1,6 @@
 # 101 labs Cisco CCNA
 
-## 1.0
+## 1.0 Network Fundamentals
 - [x] 1. Configure, Verify, and Troubleshoot IPv4 Addresses
 - [ ] 2. Configure, Verify, and Troubleshoot IPv6 Addresses
 - [ ] 3. IPv6 Address Autoconfiguration
